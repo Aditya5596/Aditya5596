@@ -10,3 +10,8 @@ I'm looking for **Data Analyst, BI Analyst, Business Analyst, or Reporting Analy
 - **Data analysis:** SQL, Advanced Excel (VLOOKUP, XLOOKUP, Pivot Table), R, data cleaning, statistical analysis
 - **BI & visualisation:** Power BI (DAX, Power Query), Tableau, KPI dashboards
 - **Business:** Reporting, stakeholder coordination, operations improvement
+## 📊 Featured Projects
+
+| Project | Tools | What it does |
+|---|---|---|
+| [AdventureWorks Sales & Performance Dashboard](https://github.com/yourusername/your-repo-name) | Power BI, DAX | Multi-page report tracking revenue, profit, orders, returns, and customer behaviour, with an interactive map and target gauges |
