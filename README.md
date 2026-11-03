@@ -14,4 +14,4 @@ I'm looking for **Data Analyst, BI Analyst, Business Analyst, or Reporting Analy
 
 | Project | Tools | What it does |
 |---|---|---|
-| [AdventureWorks Sales & Performance Dashboard](https://github.com/Aditya5596/Sales-Revenue-Dashboard) | Power BI, DAX | Multi-page report tracking revenue, profit, orders, returns, and customer behaviour, with an interactive map and target gauges |
+| [AdventureWorks Sales & Performance Dashboard](https://github.com/Aditya5596/Sales-Revenue-Dashboard) | Power BI, DAX | Multi-page report tracking revenue, profit, orders, returns, and customer behaviour with an interactive map and target gauges |
